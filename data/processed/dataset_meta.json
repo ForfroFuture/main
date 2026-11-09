@@ -1,0 +1,1109 @@
+{
+  "generated_at": "2026-11-09T19:47:14+08:00",
+  "selection_mode": "range",
+  "selection_label": "第396–398期（2026-10-16 至 2026-11-05）",
+  "selected_issues": [
+    {
+      "number": 398,
+      "name": "2026第398期 10.30 - 11.05",
+      "subject": "我独自招笑",
+      "status": 2,
+      "start_date": "2026-10-30",
+      "end_date": "2026-11-05",
+      "source": "web"
+    },
+    {
+      "number": 397,
+      "name": "2026第397期 10.23 - 10.29",
+      "subject": "把各地写成loveme",
+      "status": 2,
+      "start_date": "2026-10-23",
+      "end_date": "2026-10-29",
+      "source": "web"
+    },
+    {
+      "number": 396,
+      "name": "2026第396期 10.16 - 10.22",
+      "subject": "假如历史是一群梗",
+      "status": 2,
+      "start_date": "2026-10-16",
+      "end_date": "2026-10-22",
+      "source": "web"
+    }
+  ],
+  "tag_model": "deepseek-chat",
+  "tag_prompt_version": "2026-11-v3",
+  "tag_range": [
+    1,
+    999
+  ],
+  "use_ai": true,
+  "fetch_report": {
+    "issues_requested": 3,
+    "issues_ok": 3,
+    "issue_failures": [],
+    "video_total": 145,
+    "video_ok": 145,
+    "video_failed": 0,
+    "series_list_source": "web",
+    "issue_sources": {
+      "398": "app",
+      "397": "app",
+      "396": "app"
+    }
+  },
+  "warnings": [
+    "series/one 被 B 站风控拦截（-352），本次运行改用 app 详情接口。"
+  ],
+  "paths": {
+    "raw": "D:\\下载转移\\bilibili视频数据反馈\\data\\raw",
+    "processed": "D:\\下载转移\\bilibili视频数据反馈\\data\\processed",
+    "output": "D:\\下载转移\\bilibili视频数据反馈\\data\\output"
+  },
+  "raw_summary": {
+    "series_list": "D:\\下载转移\\bilibili视频数据反馈\\data\\raw\\series_list.json",
+    "issues": [
+      {
+        "issue_number": 398,
+        "source": "app",
+        "video_cards": 50,
+        "path": "D:\\下载转移\\bilibili视频数据反馈\\data\\raw\\issues\\398\\series_one.json"
+      },
+      {
+        "issue_number": 397,
+        "source": "app",
+        "video_cards": 47,
+        "path": "D:\\下载转移\\bilibili视频数据反馈\\data\\raw\\issues\\397\\series_one.json"
+      },
+      {
+        "issue_number": 396,
+        "source": "app",
+        "video_cards": 48,
+        "path": "D:\\下载转移\\bilibili视频数据反馈\\data\\raw\\issues\\396\\series_one.json"
+      }
+    ],
+    "videos": [
+      {
+        "bvid": "BV1TxxC6vEo4",
+        "source": "view/detail",
+        "ok": true,
+        "error": null,
+        "path": "D:\\下载转移\\bilibili视频数据反馈\\data\\raw\\issues\\398\\videos\\BV1TxxC6vEo4.json"
+      },
+      {
+        "bvid": "BV14txF65Efd",
+        "source": "view/detail",
+        "ok": true,
+        "error": null,
+        "path": "D:\\下载转移\\bilibili视频数据反馈\\data\\raw\\issues\\398\\videos\\BV14txF65Efd.json"
+      },
+      {
+        "bvid": "BV1i24P6rEmt",
+        "source": "view/detail",
+        "ok": true,
+        "error": null,
+        "path": "D:\\下载转移\\bilibili视频数据反馈\\data\\raw\\issues\\398\\videos\\BV1i24P6rEmt.json"
+      },
+      {
+        "bvid": "BV1nLsf6eESp",
+        "source": "view/detail",
+        "ok": true,
+        "error": null,
+        "path": "D:\\下载转移\\bilibili视频数据反馈\\data\\raw\\issues\\398\\videos\\BV1nLsf6eESp.json"
+      },
+      {
+        "bvid": "BV15YxH6nEku",
+        "source": "view/detail",
+        "ok": true,
+        "error": null,
+        "path": "D:\\下载转移\\bilibili视频数据反馈\\data\\raw\\issues\\398\\videos\\BV15YxH6nEku.json"
+      },
+      {
+        "bvid": "BV18wxY63Erp",
+        "source": "view/detail",
+        "ok": true,
+        "error": null,
+        "path": "D:\\下载转移\\bilibili视频数据反馈\\data\\raw\\issues\\398\\videos\\BV18wxY63Erp.json"
+      },
+      {
+        "bvid": "BV1PF4g6ME26",
+        "source": "view/detail",
+        "ok": true,
+        "error": null,
+        "path": "D:\\下载转移\\bilibili视频数据反馈\\data\\raw\\issues\\398\\videos\\BV1PF4g6ME26.json"
+      },
+      {
+        "bvid": "BV1nm4g6NE71",
+        "source": "view/detail",
+        "ok": true,
+        "error": null,
+        "path": "D:\\下载转移\\bilibili视频数据反馈\\data\\raw\\issues\\398\\videos\\BV1nm4g6NE71.json"
+      },
+      {
+        "bvid": "BV1QqxY6jEPY",
+        "source": "view/detail",
+        "ok": true,
+        "error": null,
+        "path": "D:\\下载转移\\bilibili视频数据反馈\\data\\raw\\issues\\398\\videos\\BV1QqxY6jEPY.json"
+      },
+      {
+        "bvid": "BV1ugxq6HEfH",
+        "source": "view/detail",
+        "ok": true,
+        "error": null,
+        "path": "D:\\下载转移\\bilibili视频数据反馈\\data\\raw\\issues\\398\\videos\\BV1ugxq6HEfH.json"
+      },
+      {
+        "bvid": "BV1REx46NEc4",
+        "source": "view/detail",
+        "ok": true,
+        "error": null,
+        "path": "D:\\下载转移\\bilibili视频数据反馈\\data\\raw\\issues\\398\\videos\\BV1REx46NEc4.json"
+      },
+      {
+        "bvid": "BV1bnsZ6GEN3",
+        "source": "view/detail",
+        "ok": true,
+        "error": null,
+        "path": "D:\\下载转移\\bilibili视频数据反馈\\data\\raw\\issues\\398\\videos\\BV1bnsZ6GEN3.json"
+      },
+      {
+        "bvid": "BV1Xx4c6tEKM",
+        "source": "view/detail",
+        "ok": true,
+        "error": null,
+        "path": "D:\\下载转移\\bilibili视频数据反馈\\data\\raw\\issues\\398\\videos\\BV1Xx4c6tEKM.json"
+      },
+      {
+        "bvid": "BV1yhxp66Ez8",
+        "source": "view/detail",
+        "ok": true,
+        "error": null,
+        "path": "D:\\下载转移\\bilibili视频数据反馈\\data\\raw\\issues\\398\\videos\\BV1yhxp66Ez8.json"
+      },
+      {
+        "bvid": "BV1VaxY6DE5v",
+        "source": "view/detail",
+        "ok": true,
+        "error": null,
+        "path": "D:\\下载转移\\bilibili视频数据反馈\\data\\raw\\issues\\398\\videos\\BV1VaxY6DE5v.json"
+      },
+      {
+        "bvid": "BV1XwxU6xEnL",
+        "source": "view/detail",
+        "ok": true,
+        "error": null,
+        "path": "D:\\下载转移\\bilibili视频数据反馈\\data\\raw\\issues\\398\\videos\\BV1XwxU6xEnL.json"
+      },
+      {
+        "bvid": "BV1Rsxh62E9K",
+        "source": "view/detail",
+        "ok": true,
+        "error": null,
+        "path": "D:\\下载转移\\bilibili视频数据反馈\\data\\raw\\issues\\398\\videos\\BV1Rsxh62E9K.json"
+      },
+      {
+        "bvid": "BV1uPxv6mEA3",
+        "source": "view/detail",
+        "ok": true,
+        "error": null,
+        "path": "D:\\下载转移\\bilibili视频数据反馈\\data\\raw\\issues\\398\\videos\\BV1uPxv6mEA3.json"
+      },
+      {
+        "bvid": "BV1jcxX6CEyK",
+        "source": "view/detail",
+        "ok": true,
+        "error": null,
+        "path": "D:\\下载转移\\bilibili视频数据反馈\\data\\raw\\issues\\398\\videos\\BV1jcxX6CEyK.json"
+      },
+      {
+        "bvid": "BV1Ntxr6xEjG",
+        "source": "view/detail",
+        "ok": true,
+        "error": null,
+        "path": "D:\\下载转移\\bilibili视频数据反馈\\data\\raw\\issues\\398\\videos\\BV1Ntxr6xEjG.json"
+      },
+      {
+        "bvid": "BV1ybxX6WEJK",
+        "source": "view/detail",
+        "ok": true,
+        "error": null,
+        "path": "D:\\下载转移\\bilibili视频数据反馈\\data\\raw\\issues\\398\\videos\\BV1ybxX6WEJK.json"
+      },
+      {
+        "bvid": "BV1mpxR6KESh",
+        "source": "view/detail",
+        "ok": true,
+        "error": null,
+        "path": "D:\\下载转移\\bilibili视频数据反馈\\data\\raw\\issues\\398\\videos\\BV1mpxR6KESh.json"
+      },
+      {
+        "bvid": "BV1r8xE6RE21",
+        "source": "view/detail",
+        "ok": true,
+        "error": null,
+        "path": "D:\\下载转移\\bilibili视频数据反馈\\data\\raw\\issues\\398\\videos\\BV1r8xE6RE21.json"
+      },
+      {
+        "bvid": "BV1LHxQ6gELU",
+        "source": "view/detail",
+        "ok": true,
+        "error": null,
+        "path": "D:\\下载转移\\bilibili视频数据反馈\\data\\raw\\issues\\398\\videos\\BV1LHxQ6gELU.json"
+      },
+      {
+        "bvid": "BV1nrxF6vEWm",
+        "source": "view/detail",
+        "ok": true,
+        "error": null,
+        "path": "D:\\下载转移\\bilibili视频数据反馈\\data\\raw\\issues\\398\\videos\\BV1nrxF6vEWm.json"
+      },
+      {
+        "bvid": "BV1fRx76UEPU",
+        "source": "view/detail",
+        "ok": true,
+        "error": null,
+        "path": "D:\\下载转移\\bilibili视频数据反馈\\data\\raw\\issues\\398\\videos\\BV1fRx76UEPU.json"
+      },
+      {
+        "bvid": "BV1LRxi6aEtj",
+        "source": "view/detail",
+        "ok": true,
+        "error": null,
+        "path": "D:\\下载转移\\bilibili视频数据反馈\\data\\raw\\issues\\398\\videos\\BV1LRxi6aEtj.json"
+      },
+      {
+        "bvid": "BV1Zg4g68Ef7",
+        "source": "view/detail",
+        "ok": true,
+        "error": null,
+        "path": "D:\\下载转移\\bilibili视频数据反馈\\data\\raw\\issues\\398\\videos\\BV1Zg4g68Ef7.json"
+      },
+      {
+        "bvid": "BV1PyxQ6sEbH",
+        "source": "view/detail",
+        "ok": true,
+        "error": null,
+        "path": "D:\\下载转移\\bilibili视频数据反馈\\data\\raw\\issues\\398\\videos\\BV1PyxQ6sEbH.json"
+      },
+      {
+        "bvid": "BV1ZwxR6SE89",
+        "source": "view/detail",
+        "ok": true,
+        "error": null,
+        "path": "D:\\下载转移\\bilibili视频数据反馈\\data\\raw\\issues\\398\\videos\\BV1ZwxR6SE89.json"
+      },
+      {
+        "bvid": "BV1jTxC6mExW",
+        "source": "view/detail",
+        "ok": true,
+        "error": null,
+        "path": "D:\\下载转移\\bilibili视频数据反馈\\data\\raw\\issues\\398\\videos\\BV1jTxC6mExW.json"
+      },
+      {
+        "bvid": "BV1stsZ6iESz",
+        "source": "view/detail",
+        "ok": true,
+        "error": null,
+        "path": "D:\\下载转移\\bilibili视频数据反馈\\data\\raw\\issues\\398\\videos\\BV1stsZ6iESz.json"
+      },
+      {
+        "bvid": "BV1Ntxr6xE7Y",
+        "source": "view/detail",
+        "ok": true,
+        "error": null,
+        "path": "D:\\下载转移\\bilibili视频数据反馈\\data\\raw\\issues\\398\\videos\\BV1Ntxr6xE7Y.json"
+      },
+      {
+        "bvid": "BV1sKxQ6nEiL",
+        "source": "view/detail",
+        "ok": true,
+        "error": null,
+        "path": "D:\\下载转移\\bilibili视频数据反馈\\data\\raw\\issues\\398\\videos\\BV1sKxQ6nEiL.json"
+      },
+      {
+        "bvid": "BV1y5xW63EVq",
+        "source": "view/detail",
+        "ok": true,
+        "error": null,
+        "path": "D:\\下载转移\\bilibili视频数据反馈\\data\\raw\\issues\\398\\videos\\BV1y5xW63EVq.json"
+      },
+      {
+        "bvid": "BV1HH4u6PEsa",
+        "source": "view/detail",
+        "ok": true,
+        "error": null,
+        "path": "D:\\下载转移\\bilibili视频数据反馈\\data\\raw\\issues\\398\\videos\\BV1HH4u6PEsa.json"
+      },
+      {
+        "bvid": "BV18x4M6rEFM",
+        "source": "view/detail",
+        "ok": true,
+        "error": null,
+        "path": "D:\\下载转移\\bilibili视频数据反馈\\data\\raw\\issues\\398\\videos\\BV18x4M6rEFM.json"
+      },
+      {
+        "bvid": "BV11kso6TEBh",
+        "source": "view/detail",
+        "ok": true,
+        "error": null,
+        "path": "D:\\下载转移\\bilibili视频数据反馈\\data\\raw\\issues\\398\\videos\\BV11kso6TEBh.json"
+      },
+      {
+        "bvid": "BV133xr6TEX5",
+        "source": "view/detail",
+        "ok": true,
+        "error": null,
+        "path": "D:\\下载转移\\bilibili视频数据反馈\\data\\raw\\issues\\398\\videos\\BV133xr6TEX5.json"
+      },
+      {
+        "bvid": "BV17m4M64Emr",
+        "source": "view/detail",
+        "ok": true,
+        "error": null,
+        "path": "D:\\下载转移\\bilibili视频数据反馈\\data\\raw\\issues\\398\\videos\\BV17m4M64Emr.json"
+      },
+      {
+        "bvid": "BV13oxa6yEPx",
+        "source": "view/detail",
+        "ok": true,
+        "error": null,
+        "path": "D:\\下载转移\\bilibili视频数据反馈\\data\\raw\\issues\\398\\videos\\BV13oxa6yEPx.json"
+      },
+      {
+        "bvid": "BV1NS4t6oEXQ",
+        "source": "view/detail",
+        "ok": true,
+        "error": null,
+        "path": "D:\\下载转移\\bilibili视频数据反馈\\data\\raw\\issues\\398\\videos\\BV1NS4t6oEXQ.json"
+      },
+      {
+        "bvid": "BV1ossf64EKA",
+        "source": "view/detail",
+        "ok": true,
+        "error": null,
+        "path": "D:\\下载转移\\bilibili视频数据反馈\\data\\raw\\issues\\398\\videos\\BV1ossf64EKA.json"
+      },
+      {
+        "bvid": "BV1sax16uEXm",
+        "source": "view/detail",
+        "ok": true,
+        "error": null,
+        "path": "D:\\下载转移\\bilibili视频数据反馈\\data\\raw\\issues\\398\\videos\\BV1sax16uEXm.json"
+      },
+      {
+        "bvid": "BV1NWxT6cEWk",
+        "source": "view/detail",
+        "ok": true,
+        "error": null,
+        "path": "D:\\下载转移\\bilibili视频数据反馈\\data\\raw\\issues\\398\\videos\\BV1NWxT6cEWk.json"
+      },
+      {
+        "bvid": "BV19P4w6aEk3",
+        "source": "view/detail",
+        "ok": true,
+        "error": null,
+        "path": "D:\\下载转移\\bilibili视频数据反馈\\data\\raw\\issues\\398\\videos\\BV19P4w6aEk3.json"
+      },
+      {
+        "bvid": "BV1Xasf6QEFF",
+        "source": "view/detail",
+        "ok": true,
+        "error": null,
+        "path": "D:\\下载转移\\bilibili视频数据反馈\\data\\raw\\issues\\398\\videos\\BV1Xasf6QEFF.json"
+      },
+      {
+        "bvid": "BV13n4g6QEqx",
+        "source": "view/detail",
+        "ok": true,
+        "error": null,
+        "path": "D:\\下载转移\\bilibili视频数据反馈\\data\\raw\\issues\\398\\videos\\BV13n4g6QEqx.json"
+      },
+      {
+        "bvid": "BV16b4F6qEuB",
+        "source": "view/detail",
+        "ok": true,
+        "error": null,
+        "path": "D:\\下载转移\\bilibili视频数据反馈\\data\\raw\\issues\\398\\videos\\BV16b4F6qEuB.json"
+      },
+      {
+        "bvid": "BV12R4u66Edd",
+        "source": "view/detail",
+        "ok": true,
+        "error": null,
+        "path": "D:\\下载转移\\bilibili视频数据反馈\\data\\raw\\issues\\398\\videos\\BV12R4u66Edd.json"
+      },
+      {
+        "bvid": "BV1w2Hw6KE1j",
+        "source": "view/detail",
+        "ok": true,
+        "error": null,
+        "path": "D:\\下载转移\\bilibili视频数据反馈\\data\\raw\\issues\\397\\videos\\BV1w2Hw6KE1j.json"
+      },
+      {
+        "bvid": "BV1U3n46GEzY",
+        "source": "view/detail",
+        "ok": true,
+        "error": null,
+        "path": "D:\\下载转移\\bilibili视频数据反馈\\data\\raw\\issues\\397\\videos\\BV1U3n46GEzY.json"
+      },
+      {
+        "bvid": "BV1RJHV6pECP",
+        "source": "view/detail",
+        "ok": true,
+        "error": null,
+        "path": "D:\\下载转移\\bilibili视频数据反馈\\data\\raw\\issues\\397\\videos\\BV1RJHV6pECP.json"
+      },
+      {
+        "bvid": "BV1kZHK6VEgZ",
+        "source": "view/detail",
+        "ok": true,
+        "error": null,
+        "path": "D:\\下载转移\\bilibili视频数据反馈\\data\\raw\\issues\\397\\videos\\BV1kZHK6VEgZ.json"
+      },
+      {
+        "bvid": "BV1BBnb6aEww",
+        "source": "view/detail",
+        "ok": true,
+        "error": null,
+        "path": "D:\\下载转移\\bilibili视频数据反馈\\data\\raw\\issues\\397\\videos\\BV1BBnb6aEww.json"
+      },
+      {
+        "bvid": "BV14Enb6LEDe",
+        "source": "view/detail",
+        "ok": true,
+        "error": null,
+        "path": "D:\\下载转移\\bilibili视频数据反馈\\data\\raw\\issues\\397\\videos\\BV14Enb6LEDe.json"
+      },
+      {
+        "bvid": "BV1xwnE6jEUZ",
+        "source": "view/detail",
+        "ok": true,
+        "error": null,
+        "path": "D:\\下载转移\\bilibili视频数据反馈\\data\\raw\\issues\\397\\videos\\BV1xwnE6jEUZ.json"
+      },
+      {
+        "bvid": "BV19wnQ6sExk",
+        "source": "view/detail",
+        "ok": true,
+        "error": null,
+        "path": "D:\\下载转移\\bilibili视频数据反馈\\data\\raw\\issues\\397\\videos\\BV19wnQ6sExk.json"
+      },
+      {
+        "bvid": "BV12qnt6VEM1",
+        "source": "view/detail",
+        "ok": true,
+        "error": null,
+        "path": "D:\\下载转移\\bilibili视频数据反馈\\data\\raw\\issues\\397\\videos\\BV12qnt6VEM1.json"
+      },
+      {
+        "bvid": "BV1c5HK6CEPu",
+        "source": "view/detail",
+        "ok": true,
+        "error": null,
+        "path": "D:\\下载转移\\bilibili视频数据反馈\\data\\raw\\issues\\397\\videos\\BV1c5HK6CEPu.json"
+      },
+      {
+        "bvid": "BV1aFno6wETM",
+        "source": "view/detail",
+        "ok": true,
+        "error": null,
+        "path": "D:\\下载转移\\bilibili视频数据反馈\\data\\raw\\issues\\397\\videos\\BV1aFno6wETM.json"
+      },
+      {
+        "bvid": "BV1JYsd6sE4k",
+        "source": "view/detail",
+        "ok": true,
+        "error": null,
+        "path": "D:\\下载转移\\bilibili视频数据反馈\\data\\raw\\issues\\397\\videos\\BV1JYsd6sE4k.json"
+      },
+      {
+        "bvid": "BV194n86ZEAD",
+        "source": "view/detail",
+        "ok": true,
+        "error": null,
+        "path": "D:\\下载转移\\bilibili视频数据反馈\\data\\raw\\issues\\397\\videos\\BV194n86ZEAD.json"
+      },
+      {
+        "bvid": "BV1xqH36AEPX",
+        "source": "view/detail",
+        "ok": true,
+        "error": null,
+        "path": "D:\\下载转移\\bilibili视频数据反馈\\data\\raw\\issues\\397\\videos\\BV1xqH36AEPX.json"
+      },
+      {
+        "bvid": "BV16nxg6fE3s",
+        "source": "view/detail",
+        "ok": true,
+        "error": null,
+        "path": "D:\\下载转移\\bilibili视频数据反馈\\data\\raw\\issues\\397\\videos\\BV16nxg6fE3s.json"
+      },
+      {
+        "bvid": "BV1z9nt6aE5H",
+        "source": "view/detail",
+        "ok": true,
+        "error": null,
+        "path": "D:\\下载转移\\bilibili视频数据反馈\\data\\raw\\issues\\397\\videos\\BV1z9nt6aE5H.json"
+      },
+      {
+        "bvid": "BV1WYnd6DEAw",
+        "source": "view/detail",
+        "ok": true,
+        "error": null,
+        "path": "D:\\下载转移\\bilibili视频数据反馈\\data\\raw\\issues\\397\\videos\\BV1WYnd6DEAw.json"
+      },
+      {
+        "bvid": "BV1ySsf6gE2C",
+        "source": "view/detail",
+        "ok": true,
+        "error": null,
+        "path": "D:\\下载转移\\bilibili视频数据反馈\\data\\raw\\issues\\397\\videos\\BV1ySsf6gE2C.json"
+      },
+      {
+        "bvid": "BV1UnHN6SECP",
+        "source": "view/detail",
+        "ok": true,
+        "error": null,
+        "path": "D:\\下载转移\\bilibili视频数据反馈\\data\\raw\\issues\\397\\videos\\BV1UnHN6SECP.json"
+      },
+      {
+        "bvid": "BV1U3x56HE7v",
+        "source": "view/detail",
+        "ok": true,
+        "error": null,
+        "path": "D:\\下载转移\\bilibili视频数据反馈\\data\\raw\\issues\\397\\videos\\BV1U3x56HE7v.json"
+      },
+      {
+        "bvid": "BV1uGxj68EKt",
+        "source": "view/detail",
+        "ok": true,
+        "error": null,
+        "path": "D:\\下载转移\\bilibili视频数据反馈\\data\\raw\\issues\\397\\videos\\BV1uGxj68EKt.json"
+      },
+      {
+        "bvid": "BV1p8nh61Efm",
+        "source": "view/detail",
+        "ok": true,
+        "error": null,
+        "path": "D:\\下载转移\\bilibili视频数据反馈\\data\\raw\\issues\\397\\videos\\BV1p8nh61Efm.json"
+      },
+      {
+        "bvid": "BV1DqHK6oEu9",
+        "source": "view/detail",
+        "ok": true,
+        "error": null,
+        "path": "D:\\下载转移\\bilibili视频数据反馈\\data\\raw\\issues\\397\\videos\\BV1DqHK6oEu9.json"
+      },
+      {
+        "bvid": "BV1vrxj6zE1J",
+        "source": "view/detail",
+        "ok": true,
+        "error": null,
+        "path": "D:\\下载转移\\bilibili视频数据反馈\\data\\raw\\issues\\397\\videos\\BV1vrxj6zE1J.json"
+      },
+      {
+        "bvid": "BV1VDxT6kEFL",
+        "source": "view/detail",
+        "ok": true,
+        "error": null,
+        "path": "D:\\下载转移\\bilibili视频数据反馈\\data\\raw\\issues\\397\\videos\\BV1VDxT6kEFL.json"
+      },
+      {
+        "bvid": "BV126nt6GE4W",
+        "source": "view/detail",
+        "ok": true,
+        "error": null,
+        "path": "D:\\下载转移\\bilibili视频数据反馈\\data\\raw\\issues\\397\\videos\\BV126nt6GE4W.json"
+      },
+      {
+        "bvid": "BV166nW6REyR",
+        "source": "view/detail",
+        "ok": true,
+        "error": null,
+        "path": "D:\\下载转移\\bilibili视频数据反馈\\data\\raw\\issues\\397\\videos\\BV166nW6REyR.json"
+      },
+      {
+        "bvid": "BV1DiHK6tESR",
+        "source": "view/detail",
+        "ok": true,
+        "error": null,
+        "path": "D:\\下载转移\\bilibili视频数据反馈\\data\\raw\\issues\\397\\videos\\BV1DiHK6tESR.json"
+      },
+      {
+        "bvid": "BV1J8n46FEhy",
+        "source": "view/detail",
+        "ok": true,
+        "error": null,
+        "path": "D:\\下载转移\\bilibili视频数据反馈\\data\\raw\\issues\\397\\videos\\BV1J8n46FEhy.json"
+      },
+      {
+        "bvid": "BV1zoxM64E9B",
+        "source": "view/detail",
+        "ok": true,
+        "error": null,
+        "path": "D:\\下载转移\\bilibili视频数据反馈\\data\\raw\\issues\\397\\videos\\BV1zoxM64E9B.json"
+      },
+      {
+        "bvid": "BV1jWnX6FE5K",
+        "source": "view/detail",
+        "ok": true,
+        "error": null,
+        "path": "D:\\下载转移\\bilibili视频数据反馈\\data\\raw\\issues\\397\\videos\\BV1jWnX6FE5K.json"
+      },
+      {
+        "bvid": "BV1yUHP6rEYD",
+        "source": "view/detail",
+        "ok": true,
+        "error": null,
+        "path": "D:\\下载转移\\bilibili视频数据反馈\\data\\raw\\issues\\397\\videos\\BV1yUHP6rEYD.json"
+      },
+      {
+        "bvid": "BV16inH6SEvM",
+        "source": "view/detail",
+        "ok": true,
+        "error": null,
+        "path": "D:\\下载转移\\bilibili视频数据反馈\\data\\raw\\issues\\397\\videos\\BV16inH6SEvM.json"
+      },
+      {
+        "bvid": "BV1KrHP67E4C",
+        "source": "view/detail",
+        "ok": true,
+        "error": null,
+        "path": "D:\\下载转移\\bilibili视频数据反馈\\data\\raw\\issues\\397\\videos\\BV1KrHP67E4C.json"
+      },
+      {
+        "bvid": "BV1a3nh6ZE7n",
+        "source": "view/detail",
+        "ok": true,
+        "error": null,
+        "path": "D:\\下载转移\\bilibili视频数据反馈\\data\\raw\\issues\\397\\videos\\BV1a3nh6ZE7n.json"
+      },
+      {
+        "bvid": "BV17pnp6EEen",
+        "source": "view/detail",
+        "ok": true,
+        "error": null,
+        "path": "D:\\下载转移\\bilibili视频数据反馈\\data\\raw\\issues\\397\\videos\\BV17pnp6EEen.json"
+      },
+      {
+        "bvid": "BV12Wnd6dEqp",
+        "source": "view/detail",
+        "ok": true,
+        "error": null,
+        "path": "D:\\下载转移\\bilibili视频数据反馈\\data\\raw\\issues\\397\\videos\\BV12Wnd6dEqp.json"
+      },
+      {
+        "bvid": "BV1zwnY6kE5p",
+        "source": "view/detail",
+        "ok": true,
+        "error": null,
+        "path": "D:\\下载转移\\bilibili视频数据反馈\\data\\raw\\issues\\397\\videos\\BV1zwnY6kE5p.json"
+      },
+      {
+        "bvid": "BV1KwxM6NESD",
+        "source": "view/detail",
+        "ok": true,
+        "error": null,
+        "path": "D:\\下载转移\\bilibili视频数据反馈\\data\\raw\\issues\\397\\videos\\BV1KwxM6NESD.json"
+      },
+      {
+        "bvid": "BV1FGso6ZE7x",
+        "source": "view/detail",
+        "ok": true,
+        "error": null,
+        "path": "D:\\下载转移\\bilibili视频数据反馈\\data\\raw\\issues\\397\\videos\\BV1FGso6ZE7x.json"
+      },
+      {
+        "bvid": "BV1VNxT6VEfB",
+        "source": "view/detail",
+        "ok": true,
+        "error": null,
+        "path": "D:\\下载转移\\bilibili视频数据反馈\\data\\raw\\issues\\397\\videos\\BV1VNxT6VEfB.json"
+      },
+      {
+        "bvid": "BV15ynb6tEa6",
+        "source": "view/detail",
+        "ok": true,
+        "error": null,
+        "path": "D:\\下载转移\\bilibili视频数据反馈\\data\\raw\\issues\\397\\videos\\BV15ynb6tEa6.json"
+      },
+      {
+        "bvid": "BV1Y3sZ67Eat",
+        "source": "view/detail",
+        "ok": true,
+        "error": null,
+        "path": "D:\\下载转移\\bilibili视频数据反馈\\data\\raw\\issues\\397\\videos\\BV1Y3sZ67Eat.json"
+      },
+      {
+        "bvid": "BV19pn86hEUJ",
+        "source": "view/detail",
+        "ok": true,
+        "error": null,
+        "path": "D:\\下载转移\\bilibili视频数据反馈\\data\\raw\\issues\\397\\videos\\BV19pn86hEUJ.json"
+      },
+      {
+        "bvid": "BV1VvHK6FEV5",
+        "source": "view/detail",
+        "ok": true,
+        "error": null,
+        "path": "D:\\下载转移\\bilibili视频数据反馈\\data\\raw\\issues\\397\\videos\\BV1VvHK6FEV5.json"
+      },
+      {
+        "bvid": "BV1Aan96CE6b",
+        "source": "view/detail",
+        "ok": true,
+        "error": null,
+        "path": "D:\\下载转移\\bilibili视频数据反馈\\data\\raw\\issues\\397\\videos\\BV1Aan96CE6b.json"
+      },
+      {
+        "bvid": "BV1rDHw6aE7w",
+        "source": "view/detail",
+        "ok": true,
+        "error": null,
+        "path": "D:\\下载转移\\bilibili视频数据反馈\\data\\raw\\issues\\397\\videos\\BV1rDHw6aE7w.json"
+      },
+      {
+        "bvid": "BV1HCpS6iEXh",
+        "source": "view/detail",
+        "ok": true,
+        "error": null,
+        "path": "D:\\下载转移\\bilibili视频数据反馈\\data\\raw\\issues\\396\\videos\\BV1HCpS6iEXh.json"
+      },
+      {
+        "bvid": "BV1AHnB6NEhM",
+        "source": "view/detail",
+        "ok": true,
+        "error": null,
+        "path": "D:\\下载转移\\bilibili视频数据反馈\\data\\raw\\issues\\396\\videos\\BV1AHnB6NEhM.json"
+      },
+      {
+        "bvid": "BV1B5JY66E1X",
+        "source": "view/detail",
+        "ok": true,
+        "error": null,
+        "path": "D:\\下载转移\\bilibili视频数据反馈\\data\\raw\\issues\\396\\videos\\BV1B5JY66E1X.json"
+      },
+      {
+        "bvid": "BV1SknF6KE5g",
+        "source": "view/detail",
+        "ok": true,
+        "error": null,
+        "path": "D:\\下载转移\\bilibili视频数据反馈\\data\\raw\\issues\\396\\videos\\BV1SknF6KE5g.json"
+      },
+      {
+        "bvid": "BV1t9pr6oE2i",
+        "source": "view/detail",
+        "ok": true,
+        "error": null,
+        "path": "D:\\下载转移\\bilibili视频数据反馈\\data\\raw\\issues\\396\\videos\\BV1t9pr6oE2i.json"
+      },
+      {
+        "bvid": "BV1MHJB63Emv",
+        "source": "view/detail",
+        "ok": true,
+        "error": null,
+        "path": "D:\\下载转移\\bilibili视频数据反馈\\data\\raw\\issues\\396\\videos\\BV1MHJB63Emv.json"
+      },
+      {
+        "bvid": "BV1j5nj68E48",
+        "source": "view/detail",
+        "ok": true,
+        "error": null,
+        "path": "D:\\下载转移\\bilibili视频数据反馈\\data\\raw\\issues\\396\\videos\\BV1j5nj68E48.json"
+      },
+      {
+        "bvid": "BV1fZJ26mEiY",
+        "source": "view/detail",
+        "ok": true,
+        "error": null,
+        "path": "D:\\下载转移\\bilibili视频数据反馈\\data\\raw\\issues\\396\\videos\\BV1fZJ26mEiY.json"
+      },
+      {
+        "bvid": "BV186Jq6uEFu",
+        "source": "view/detail",
+        "ok": true,
+        "error": null,
+        "path": "D:\\下载转移\\bilibili视频数据反馈\\data\\raw\\issues\\396\\videos\\BV186Jq6uEFu.json"
+      },
+      {
+        "bvid": "BV1Vbnn6iEfG",
+        "source": "view/detail",
+        "ok": true,
+        "error": null,
+        "path": "D:\\下载转移\\bilibili视频数据反馈\\data\\raw\\issues\\396\\videos\\BV1Vbnn6iEfG.json"
+      },
+      {
+        "bvid": "BV1xrnz6gEVD",
+        "source": "view/detail",
+        "ok": true,
+        "error": null,
+        "path": "D:\\下载转移\\bilibili视频数据反馈\\data\\raw\\issues\\396\\videos\\BV1xrnz6gEVD.json"
+      },
+      {
+        "bvid": "BV1Y2Je6BEDr",
+        "source": "view/detail",
+        "ok": true,
+        "error": null,
+        "path": "D:\\下载转移\\bilibili视频数据反馈\\data\\raw\\issues\\396\\videos\\BV1Y2Je6BEDr.json"
+      },
+      {
+        "bvid": "BV1Ranw6DEYW",
+        "source": "view/detail",
+        "ok": true,
+        "error": null,
+        "path": "D:\\下载转移\\bilibili视频数据反馈\\data\\raw\\issues\\396\\videos\\BV1Ranw6DEYW.json"
+      },
+      {
+        "bvid": "BV1nFJ66PE1K",
+        "source": "view/detail",
+        "ok": true,
+        "error": null,
+        "path": "D:\\下载转移\\bilibili视频数据反馈\\data\\raw\\issues\\396\\videos\\BV1nFJ66PE1K.json"
+      },
+      {
+        "bvid": "BV1bKnw6zEsV",
+        "source": "view/detail",
+        "ok": true,
+        "error": null,
+        "path": "D:\\下载转移\\bilibili视频数据反馈\\data\\raw\\issues\\396\\videos\\BV1bKnw6zEsV.json"
+      },
+      {
+        "bvid": "BV1Xdnc6jEbL",
+        "source": "view/detail",
+        "ok": true,
+        "error": null,
+        "path": "D:\\下载转移\\bilibili视频数据反馈\\data\\raw\\issues\\396\\videos\\BV1Xdnc6jEbL.json"
+      },
+      {
+        "bvid": "BV1gKJ86JEuP",
+        "source": "view/detail",
+        "ok": true,
+        "error": null,
+        "path": "D:\\下载转移\\bilibili视频数据反馈\\data\\raw\\issues\\396\\videos\\BV1gKJ86JEuP.json"
+      },
+      {
+        "bvid": "BV1uanE6dErS",
+        "source": "view/detail",
+        "ok": true,
+        "error": null,
+        "path": "D:\\下载转移\\bilibili视频数据反馈\\data\\raw\\issues\\396\\videos\\BV1uanE6dErS.json"
+      },
+      {
+        "bvid": "BV1danw6DEbP",
+        "source": "view/detail",
+        "ok": true,
+        "error": null,
+        "path": "D:\\下载转移\\bilibili视频数据反馈\\data\\raw\\issues\\396\\videos\\BV1danw6DEbP.json"
+      },
+      {
+        "bvid": "BV18XJC6sE7i",
+        "source": "view/detail",
+        "ok": true,
+        "error": null,
+        "path": "D:\\下载转移\\bilibili视频数据反馈\\data\\raw\\issues\\396\\videos\\BV18XJC6sE7i.json"
+      },
+      {
+        "bvid": "BV17YJX6FE6F",
+        "source": "view/detail",
+        "ok": true,
+        "error": null,
+        "path": "D:\\下载转移\\bilibili视频数据反馈\\data\\raw\\issues\\396\\videos\\BV17YJX6FE6F.json"
+      },
+      {
+        "bvid": "BV1mgnP6yELh",
+        "source": "view/detail",
+        "ok": true,
+        "error": null,
+        "path": "D:\\下载转移\\bilibili视频数据反馈\\data\\raw\\issues\\396\\videos\\BV1mgnP6yELh.json"
+      },
+      {
+        "bvid": "BV1g5nk6xEWk",
+        "source": "view/detail",
+        "ok": true,
+        "error": null,
+        "path": "D:\\下载转移\\bilibili视频数据反馈\\data\\raw\\issues\\396\\videos\\BV1g5nk6xEWk.json"
+      },
+      {
+        "bvid": "BV1F7nF6WEmD",
+        "source": "view/detail",
+        "ok": true,
+        "error": null,
+        "path": "D:\\下载转移\\bilibili视频数据反馈\\data\\raw\\issues\\396\\videos\\BV1F7nF6WEmD.json"
+      },
+      {
+        "bvid": "BV1AdJU6ZETc",
+        "source": "view/detail",
+        "ok": true,
+        "error": null,
+        "path": "D:\\下载转移\\bilibili视频数据反馈\\data\\raw\\issues\\396\\videos\\BV1AdJU6ZETc.json"
+      },
+      {
+        "bvid": "BV1j7Jy6MEfu",
+        "source": "view/detail",
+        "ok": true,
+        "error": null,
+        "path": "D:\\下载转移\\bilibili视频数据反馈\\data\\raw\\issues\\396\\videos\\BV1j7Jy6MEfu.json"
+      },
+      {
+        "bvid": "BV1Cdni6AEQB",
+        "source": "view/detail",
+        "ok": true,
+        "error": null,
+        "path": "D:\\下载转移\\bilibili视频数据反馈\\data\\raw\\issues\\396\\videos\\BV1Cdni6AEQB.json"
+      },
+      {
+        "bvid": "BV1KYJk6JEDk",
+        "source": "view/detail",
+        "ok": true,
+        "error": null,
+        "path": "D:\\下载转移\\bilibili视频数据反馈\\data\\raw\\issues\\396\\videos\\BV1KYJk6JEDk.json"
+      },
+      {
+        "bvid": "BV1Lsnn6uEaH",
+        "source": "view/detail",
+        "ok": true,
+        "error": null,
+        "path": "D:\\下载转移\\bilibili视频数据反馈\\data\\raw\\issues\\396\\videos\\BV1Lsnn6uEaH.json"
+      },
+      {
+        "bvid": "BV1wZJD6NEku",
+        "source": "view/detail",
+        "ok": true,
+        "error": null,
+        "path": "D:\\下载转移\\bilibili视频数据反馈\\data\\raw\\issues\\396\\videos\\BV1wZJD6NEku.json"
+      },
+      {
+        "bvid": "BV1fNJQ6bEAj",
+        "source": "view/detail",
+        "ok": true,
+        "error": null,
+        "path": "D:\\下载转移\\bilibili视频数据反馈\\data\\raw\\issues\\396\\videos\\BV1fNJQ6bEAj.json"
+      },
+      {
+        "bvid": "BV1T8J66CEEu",
+        "source": "view/detail",
+        "ok": true,
+        "error": null,
+        "path": "D:\\下载转移\\bilibili视频数据反馈\\data\\raw\\issues\\396\\videos\\BV1T8J66CEEu.json"
+      },
+      {
+        "bvid": "BV1hNJX6EE1k",
+        "source": "view/detail",
+        "ok": true,
+        "error": null,
+        "path": "D:\\下载转移\\bilibili视频数据反馈\\data\\raw\\issues\\396\\videos\\BV1hNJX6EE1k.json"
+      },
+      {
+        "bvid": "BV1MtnG6NEGF",
+        "source": "view/detail",
+        "ok": true,
+        "error": null,
+        "path": "D:\\下载转移\\bilibili视频数据反馈\\data\\raw\\issues\\396\\videos\\BV1MtnG6NEGF.json"
+      },
+      {
+        "bvid": "BV1KgnP6yEoN",
+        "source": "view/detail",
+        "ok": true,
+        "error": null,
+        "path": "D:\\下载转移\\bilibili视频数据反馈\\data\\raw\\issues\\396\\videos\\BV1KgnP6yEoN.json"
+      },
+      {
+        "bvid": "BV1XynB6EEiM",
+        "source": "view/detail",
+        "ok": true,
+        "error": null,
+        "path": "D:\\下载转移\\bilibili视频数据反馈\\data\\raw\\issues\\396\\videos\\BV1XynB6EEiM.json"
+      },
+      {
+        "bvid": "BV1XJJ96oEXg",
+        "source": "view/detail",
+        "ok": true,
+        "error": null,
+        "path": "D:\\下载转移\\bilibili视频数据反馈\\data\\raw\\issues\\396\\videos\\BV1XJJ96oEXg.json"
+      },
+      {
+        "bvid": "BV1R8nF65Eme",
+        "source": "view/detail",
+        "ok": true,
+        "error": null,
+        "path": "D:\\下载转移\\bilibili视频数据反馈\\data\\raw\\issues\\396\\videos\\BV1R8nF65Eme.json"
+      },
+      {
+        "bvid": "BV1AyJy6SESw",
+        "source": "view/detail",
+        "ok": true,
+        "error": null,
+        "path": "D:\\下载转移\\bilibili视频数据反馈\\data\\raw\\issues\\396\\videos\\BV1AyJy6SESw.json"
+      },
+      {
+        "bvid": "BV1eJnz6sEnr",
+        "source": "view/detail",
+        "ok": true,
+        "error": null,
+        "path": "D:\\下载转移\\bilibili视频数据反馈\\data\\raw\\issues\\396\\videos\\BV1eJnz6sEnr.json"
+      },
+      {
+        "bvid": "BV15BJX6dEoR",
+        "source": "view/detail",
+        "ok": true,
+        "error": null,
+        "path": "D:\\下载转移\\bilibili视频数据反馈\\data\\raw\\issues\\396\\videos\\BV15BJX6dEoR.json"
+      },
+      {
+        "bvid": "BV1RBnB6pEGr",
+        "source": "view/detail",
+        "ok": true,
+        "error": null,
+        "path": "D:\\下载转移\\bilibili视频数据反馈\\data\\raw\\issues\\396\\videos\\BV1RBnB6pEGr.json"
+      },
+      {
+        "bvid": "BV1quJb6tEGe",
+        "source": "view/detail",
+        "ok": true,
+        "error": null,
+        "path": "D:\\下载转移\\bilibili视频数据反馈\\data\\raw\\issues\\396\\videos\\BV1quJb6tEGe.json"
+      },
+      {
+        "bvid": "BV1BiJe6LERJ",
+        "source": "view/detail",
+        "ok": true,
+        "error": null,
+        "path": "D:\\下载转移\\bilibili视频数据反馈\\data\\raw\\issues\\396\\videos\\BV1BiJe6LERJ.json"
+      },
+      {
+        "bvid": "BV1zLnn6LEkj",
+        "source": "view/detail",
+        "ok": true,
+        "error": null,
+        "path": "D:\\下载转移\\bilibili视频数据反馈\\data\\raw\\issues\\396\\videos\\BV1zLnn6LEkj.json"
+      },
+      {
+        "bvid": "BV1ZKJb68EjZ",
+        "source": "view/detail",
+        "ok": true,
+        "error": null,
+        "path": "D:\\下载转移\\bilibili视频数据反馈\\data\\raw\\issues\\396\\videos\\BV1ZKJb68EjZ.json"
+      },
+      {
+        "bvid": "BV1i5nz6ZEZv",
+        "source": "view/detail",
+        "ok": true,
+        "error": null,
+        "path": "D:\\下载转移\\bilibili视频数据反馈\\data\\raw\\issues\\396\\videos\\BV1i5nz6ZEZv.json"
+      },
+      {
+        "bvid": "BV1fNnv6EEon",
+        "source": "view/detail",
+        "ok": true,
+        "error": null,
+        "path": "D:\\下载转移\\bilibili视频数据反馈\\data\\raw\\issues\\396\\videos\\BV1fNnv6EEon.json"
+      }
+    ]
+  },
+  "counts": {
+    "issues": 3,
+    "videos": 145,
+    "appearances": 145,
+    "tags": 1027
+  }
+}

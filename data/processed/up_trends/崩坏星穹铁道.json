@@ -1,0 +1,305 @@
+{
+  "up_name": "崩坏星穹铁道",
+  "start": "2025-10-29",
+  "end": "2026-10-29",
+  "months": [
+    {
+      "month": "2025-10",
+      "count": 1
+    },
+    {
+      "month": "2025-11",
+      "count": 2
+    },
+    {
+      "month": "2025-12",
+      "count": 0
+    },
+    {
+      "month": "2026-01",
+      "count": 0
+    },
+    {
+      "month": "2026-02",
+      "count": 2
+    },
+    {
+      "month": "2026-03",
+      "count": 2
+    },
+    {
+      "month": "2026-04",
+      "count": 3
+    },
+    {
+      "month": "2026-05",
+      "count": 2
+    },
+    {
+      "month": "2026-06",
+      "count": 1
+    },
+    {
+      "month": "2026-07",
+      "count": 4
+    },
+    {
+      "month": "2026-08",
+      "count": 0
+    },
+    {
+      "month": "2026-09",
+      "count": 1
+    },
+    {
+      "month": "2026-10",
+      "count": 2
+    }
+  ],
+  "appearances": [
+    {
+      "issue_number": 345,
+      "week_start": "2025-10-24",
+      "week_end": "2025-10-30",
+      "month": "2025-10",
+      "rank": 4,
+      "bvid": "BV1xzs1zDEFi",
+      "title": "《崩坏：星穹铁道》千星纪游PV：「故事之外：第8场」",
+      "video_url": "https://www.bilibili.com/video/BV1xzs1zDEFi",
+      "cover_url": "https://i0.hdslb.com/bfs/archive/77eb985c15bae9da25dccb7e6ace63cc7014a401.jpg",
+      "rcmd_reason": "坏结局和更坏的结局，还有非常坏的结局"
+    },
+    {
+      "issue_number": 346,
+      "week_start": "2025-10-31",
+      "week_end": "2025-11-06",
+      "month": "2025-11",
+      "rank": 1,
+      "bvid": "BV14G1kB5Evp",
+      "title": "《崩坏：星穹铁道》动画短片：「你好，世界」",
+      "video_url": "https://www.bilibili.com/video/BV14G1kB5Evp",
+      "cover_url": "https://i0.hdslb.com/bfs/archive/e6e2b49a90eb13c71252d83889b70d22670f42fe.jpg",
+      "rcmd_reason": "这是一个不同以往的浪漫故事"
+    },
+    {
+      "issue_number": 347,
+      "week_start": "2025-11-07",
+      "week_end": "2025-11-13",
+      "month": "2025-11",
+      "rank": 7,
+      "bvid": "BV1XG2FBTEHK",
+      "title": "《崩坏：星穹铁道》音乐MV——「昔涟」",
+      "video_url": "https://www.bilibili.com/video/BV1XG2FBTEHK",
+      "cover_url": "https://i2.hdslb.com/bfs/archive/193ba434a45c0d90520e1b138bad924370db0ab8.jpg",
+      "rcmd_reason": "一如初见"
+    },
+    {
+      "issue_number": 359,
+      "week_start": "2026-01-30",
+      "week_end": "2026-02-05",
+      "month": "2026-02",
+      "rank": 4,
+      "bvid": "BV1i36MBEEPW",
+      "title": "《崩坏：星穹铁道》即兴巡演PV：「一口气看完！铁墓之战后，官方没有说出的真相！」",
+      "video_url": "https://www.bilibili.com/video/BV1i36MBEEPW",
+      "cover_url": "https://i0.hdslb.com/bfs/archive/5201d0a61e060d1accb410cea2f0b024d9ca63e6.jpg",
+      "rcmd_reason": "这对吗"
+    },
+    {
+      "issue_number": 362,
+      "week_start": "2026-02-20",
+      "week_end": "2026-02-26",
+      "month": "2026-02",
+      "rank": 22,
+      "bvid": "BV19dZ6BJEVY",
+      "title": "《崩坏：星穹铁道》走近星穹——「火花：永不放弃你」",
+      "video_url": "https://www.bilibili.com/video/BV19dZ6BJEVY",
+      "cover_url": "https://i0.hdslb.com/bfs/archive/0697edff52f0eb1f67c796f6408ab4876e1088ec.jpg",
+      "rcmd_reason": "反复确认ID"
+    },
+    {
+      "issue_number": 363,
+      "week_start": "2026-02-27",
+      "week_end": "2026-03-05",
+      "month": "2026-03",
+      "rank": 5,
+      "bvid": "BV1xxfYBDEoG",
+      "title": "我永远无法原谅星穹铁道",
+      "video_url": "https://www.bilibili.com/video/BV1xxfYBDEoG",
+      "cover_url": "https://i1.hdslb.com/bfs/archive/52cb7e78d6f90435937d6660b2ec11df87fd9f28.jpg",
+      "rcmd_reason": "开庭带上你的花火"
+    },
+    {
+      "issue_number": 366,
+      "week_start": "2026-03-20",
+      "week_end": "2026-03-26",
+      "month": "2026-03",
+      "rank": 14,
+      "bvid": "BV1f4w1zEEt6",
+      "title": "《崩坏：星穹铁道》不死途角色PV——「狼来了」",
+      "video_url": "https://www.bilibili.com/video/BV1f4w1zEEt6",
+      "cover_url": "https://i0.hdslb.com/bfs/archive/15669ce8e001458059610ef1a4fbb95ccd83352b.jpg",
+      "rcmd_reason": "狼一直来"
+    },
+    {
+      "issue_number": 367,
+      "week_start": "2026-03-27",
+      "week_end": "2026-04-02",
+      "month": "2026-04",
+      "rank": 9,
+      "bvid": "BV1eRXrB3EQ7",
+      "title": "鸟，为什么会飞？",
+      "video_url": "https://www.bilibili.com/video/BV1eRXrB3EQ7",
+      "cover_url": "https://i2.hdslb.com/bfs/archive/5955f4c911c36dad3dd625029df5de509bb1f299.jpg",
+      "rcmd_reason": "它还是忘不了Eva"
+    },
+    {
+      "issue_number": 369,
+      "week_start": "2026-04-10",
+      "week_end": "2026-04-16",
+      "month": "2026-04",
+      "rank": 9,
+      "bvid": "BV1YXDfBUETP",
+      "title": "《崩坏：星穹铁道》原创动画•概念PV——「死于午后」",
+      "video_url": "https://www.bilibili.com/video/BV1YXDfBUETP",
+      "cover_url": "https://i1.hdslb.com/bfs/archive/20efa129e48960297f76cfdcf4347bbfbd778fc1.jpg",
+      "rcmd_reason": "热情燃烧起来了"
+    },
+    {
+      "issue_number": 370,
+      "week_start": "2026-04-17",
+      "week_end": "2026-04-23",
+      "month": "2026-04",
+      "rank": 9,
+      "bvid": "BV118dqBXEgB",
+      "title": "《崩坏：星穹铁道》千星纪游PV：「第999场：GAME NOT OVER」",
+      "video_url": "https://www.bilibili.com/video/BV118dqBXEgB",
+      "cover_url": "https://i2.hdslb.com/bfs/archive/be023511cf1462180d2591bb802279f7eeca7249.jpg",
+      "rcmd_reason": "游戏才刚刚开始"
+    },
+    {
+      "issue_number": 372,
+      "week_start": "2026-05-01",
+      "week_end": "2026-05-07",
+      "month": "2026-05",
+      "rank": 7,
+      "bvid": "BV16p9UBgEhT",
+      "title": "《崩坏：星穹铁道》「2026星铁奇妙夜」线上音乐演出官方录播完整版",
+      "video_url": "https://www.bilibili.com/video/BV16p9UBgEhT",
+      "cover_url": "https://i2.hdslb.com/bfs/archive/68d6b3fe2a973cff2d5adebef1ae2f9f9218cc72.jpg",
+      "rcmd_reason": "愿此行，终抵群星。"
+    },
+    {
+      "issue_number": 373,
+      "week_start": "2026-05-08",
+      "week_end": "2026-05-14",
+      "month": "2026-05",
+      "rank": 14,
+      "bvid": "BV1dE5p6bEut",
+      "title": "《崩坏：星穹铁道》绯英角色PV——「她的日常」",
+      "video_url": "https://www.bilibili.com/video/BV1dE5p6bEut",
+      "cover_url": "https://i2.hdslb.com/bfs/archive/1b8a0aca135a269029c28241069fb615a8106d30.jpg",
+      "rcmd_reason": "一天又平安地过去了"
+    },
+    {
+      "issue_number": 376,
+      "week_start": "2026-05-29",
+      "week_end": "2026-06-04",
+      "month": "2026-06",
+      "rank": 13,
+      "bvid": "BV1PnV46DEP4",
+      "title": "《崩坏：星穹铁道》千冶•刃角色PV——「灭度」",
+      "video_url": "https://www.bilibili.com/video/BV1PnV46DEP4",
+      "cover_url": "https://i2.hdslb.com/bfs/archive/d47343df294c1ba36c3329bbe3d1dd954aff0de3.jpg",
+      "rcmd_reason": "千冶刃和刃组队是不是一千零一冶"
+    },
+    {
+      "issue_number": 380,
+      "week_start": "2026-06-26",
+      "week_end": "2026-07-02",
+      "month": "2026-07",
+      "rank": 20,
+      "bvid": "BV1FY7Y6rEDw",
+      "title": "《崩坏：星穹铁道》即兴巡演PV：「欢愉之死」",
+      "video_url": "https://www.bilibili.com/video/BV1FY7Y6rEDw",
+      "cover_url": "https://i1.hdslb.com/bfs/archive/7d7e7def5eee036ae34cf7c3a8cbfdc414ba19f9.jpg",
+      "rcmd_reason": "丧钟为谁而鸣"
+    },
+    {
+      "issue_number": 381,
+      "week_start": "2026-07-03",
+      "week_end": "2026-07-09",
+      "month": "2026-07",
+      "rank": 12,
+      "bvid": "BV1MHMe6vE94",
+      "title": "《崩坏：星穹铁道》即兴巡演PV——「致仰望者」",
+      "video_url": "https://www.bilibili.com/video/BV1MHMe6vE94",
+      "cover_url": "https://i0.hdslb.com/bfs/archive/91a1953e8f61d44748c9b298a64f2e35ed1133ee.jpg",
+      "rcmd_reason": "畅谈星辰"
+    },
+    {
+      "issue_number": 382,
+      "week_start": "2026-07-10",
+      "week_end": "2026-07-16",
+      "month": "2026-07",
+      "rank": 10,
+      "bvid": "BV1XwNX6JEoF",
+      "title": "《崩坏：星穹铁道》姬子•启行角色PV——「启明星于今夜坠落」",
+      "video_url": "https://www.bilibili.com/video/BV1XwNX6JEoF",
+      "cover_url": "https://i1.hdslb.com/bfs/archive/949f0fdb23ab81e148e93f689b6087fc62a990a9.jpg",
+      "rcmd_reason": "为世界上所有的美好而战"
+    },
+    {
+      "issue_number": 383,
+      "week_start": "2026-07-17",
+      "week_end": "2026-07-23",
+      "month": "2026-07",
+      "rank": 9,
+      "bvid": "BV1ThgD6nEie",
+      "title": "《崩坏：星穹铁道》× Fate[UBW] 联动PV——「别来无恙」",
+      "video_url": "https://www.bilibili.com/video/BV1ThgD6nEie",
+      "cover_url": "https://i2.hdslb.com/bfs/archive/ad4efbb63d4d65efa768efc7ccbe94bbbb309460.jpg",
+      "rcmd_reason": "简直是世纪大烩面"
+    },
+    {
+      "issue_number": 392,
+      "week_start": "2026-09-18",
+      "week_end": "2026-09-24",
+      "month": "2026-09",
+      "rank": 11,
+      "bvid": "BV1yvhW6sEzi",
+      "title": "《崩坏：星穹铁道》即兴巡演PV——「至此，已成艺术」",
+      "video_url": "https://www.bilibili.com/video/BV1yvhW6sEzi",
+      "cover_url": "https://i1.hdslb.com/bfs/archive/918036e5a4c1f79f447229654c474eec94ee5620.jpg",
+      "rcmd_reason": "每日审美积累已达成"
+    },
+    {
+      "issue_number": 393,
+      "week_start": "2026-09-25",
+      "week_end": "2026-10-01",
+      "month": "2026-10",
+      "rank": 11,
+      "bvid": "BV1Rmh96ZEXh",
+      "title": "《崩坏：星穹铁道》真珠角色PV——「如何描绘一种希望」",
+      "video_url": "https://www.bilibili.com/video/BV1Rmh96ZEXh",
+      "cover_url": "https://i0.hdslb.com/bfs/archive/54bde642fdd0a0a0a78b3a63bbc075e6fa71146d.jpg",
+      "rcmd_reason": "什么是完美的艺术？"
+    },
+    {
+      "issue_number": 397,
+      "week_start": "2026-10-23",
+      "week_end": "2026-10-29",
+      "month": "2026-10",
+      "rank": 12,
+      "bvid": "BV1JYsd6sE4k",
+      "title": "《崩坏：星穹铁道》千星纪游PV：「有关星空的寓言集•其三」",
+      "video_url": "https://www.bilibili.com/video/BV1JYsd6sE4k",
+      "cover_url": "https://i1.hdslb.com/bfs/archive/09dcd91926cd52d9c8584a7b96bee173152f12d5.jpg",
+      "rcmd_reason": "神仙打架"
+    }
+  ],
+  "issues_scanned": 53,
+  "issues_failed": [],
+  "warnings": [],
+  "generated_at": "2026-11-03T11:28:46+08:00"
+}

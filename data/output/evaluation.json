@@ -1,0 +1,66 @@
+{
+  "generated_at": "2026-11-09T19:47:14+08:00",
+  "scope": {
+    "issues": 3,
+    "unique_videos": 145,
+    "appearances": 145,
+    "duplicate_appearances": 0
+  },
+  "tagging": {
+    "tag_assignments": 1027,
+    "unique_tags": 860,
+    "avg_tags_per_video": 7.08,
+    "min_tags": 5,
+    "max_tags": 14,
+    "compliant_videos": 145,
+    "compliance_rate_pct": 100.0,
+    "tag_coverage_pct": 100.0,
+    "videos_with_all_range": 145,
+    "ai_tags": 145,
+    "fallback_tags": 0,
+    "ai_success_rate_pct": 100.0,
+    "duplicate_within_video_videos": 0,
+    "tag_error_videos": 0,
+    "avg_tag_chars": 3.92,
+    "vocabulary_ratio_pct": 83.74,
+    "top10_concentration_pct": 6.04,
+    "median_latency_ms": 1265,
+    "p95_latency_ms": 1594,
+    "source_counts": {
+      "ai": 145
+    },
+    "model": "deepseek-chat",
+    "prompt_version": "2026-11-v3"
+  },
+  "coverage": {
+    "known_category_videos": 143,
+    "known_category_pct": 98.62,
+    "unknown_category_videos": 2,
+    "description_empty_pct": 21.38,
+    "invalid_bvid": 0,
+    "video_detail_success_pct": 100.0,
+    "issue_api_sources": {
+      "app": 3
+    }
+  },
+  "performance": {
+    "median_views": 3734714,
+    "mean_views": 4164926,
+    "median_engagement_rate_pct": 7.538,
+    "total_views": 603914384
+  },
+  "api": {
+    "issues_requested": 3,
+    "issues_ok": 3,
+    "issue_failures": [],
+    "video_total": 145,
+    "video_ok": 145,
+    "video_failed": 0,
+    "series_list_source": "web",
+    "issue_sources": {
+      "398": "app",
+      "397": "app",
+      "396": "app"
+    }
+  }
+}

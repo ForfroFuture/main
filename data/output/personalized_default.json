@@ -1,0 +1,109 @@
+{
+  "categories": [
+    "游戏",
+    "音乐"
+  ],
+  "tags": [
+    "搞笑整活",
+    "知识科普",
+    "游戏实况"
+  ],
+  "summary": [
+    "你的偏好分区覆盖 42 条视频（29.0%），其中位播放量 4,476,469。",
+    "在 3 个偏好标签中，样本里有 23 条视频至少命中 1 个。",
+    "最匹配的是 《绝区零》先导演示丨挽昼，偏好得分 92.5，原因为：命中偏好分区「游戏」；匹配标签 游戏实况；综合热度前 1%。",
+    "推荐列表按“加权热度 50% + 分区匹配 25% + 标签匹配 15% + 互动率 10%”排序。"
+  ],
+  "recommendations": [
+    {
+      "bvid": "BV1U3n46GEzY",
+      "title": "《绝区零》先导演示丨挽昼",
+      "category_path": "游戏/单人RPG游戏",
+      "uploader": "绝区零",
+      "video_url": "https://www.bilibili.com/video/BV1U3n46GEzY",
+      "affinity_score": 92.5,
+      "recommend_reason": "命中偏好分区「游戏」；匹配标签 游戏实况；综合热度前 1%"
+    },
+    {
+      "bvid": "BV1c5HK6CEPu",
+      "title": "双人抬棺",
+      "category_path": "游戏/休闲/小游戏",
+      "uploader": "Z贤者",
+      "video_url": "https://www.bilibili.com/video/BV1c5HK6CEPu",
+      "affinity_score": 87.8,
+      "recommend_reason": "命中偏好分区「游戏」；匹配标签 游戏实况、搞笑整活；综合热度前 9%"
+    },
+    {
+      "bvid": "BV1xwnE6jEUZ",
+      "title": "传统口技表演《大闹天宫》",
+      "category_path": "音乐/音乐现场",
+      "uploader": "BBoxer酋长",
+      "video_url": "https://www.bilibili.com/video/BV1xwnE6jEUZ",
+      "affinity_score": 79.3,
+      "recommend_reason": "命中偏好分区「音乐」；综合热度前 10%"
+    },
+    {
+      "bvid": "BV1zoxM64E9B",
+      "title": "【2026王者荣耀共创之夜】晚会完整回放",
+      "category_path": "游戏/MOBA游戏",
+      "uploader": "王者荣耀",
+      "video_url": "https://www.bilibili.com/video/BV1zoxM64E9B",
+      "affinity_score": 77.6,
+      "recommend_reason": "命中偏好分区「游戏」；匹配标签 游戏实况；综合热度前 13%"
+    },
+    {
+      "bvid": "BV1SknF6KE5g",
+      "title": "《绝区零》菲欧妮EP | 1% Battery Girl 低电量女孩",
+      "category_path": "音乐/原创音乐",
+      "uploader": "绝区零",
+      "video_url": "https://www.bilibili.com/video/BV1SknF6KE5g",
+      "affinity_score": 77.0,
+      "recommend_reason": "命中偏好分区「音乐」；综合热度前 14%"
+    },
+    {
+      "bvid": "BV1AHnB6NEhM",
+      "title": "《影之刃零》最终预告",
+      "category_path": "游戏/其他游戏",
+      "uploader": "影之刃零",
+      "video_url": "https://www.bilibili.com/video/BV1AHnB6NEhM",
+      "affinity_score": 74.9,
+      "recommend_reason": "命中偏好分区「游戏」；综合热度前 4%"
+    },
+    {
+      "bvid": "BV1fNJQ6bEAj",
+      "title": "洗衣机如何演奏《雨爱》？",
+      "category_path": "音乐/演奏",
+      "uploader": "非凯J",
+      "video_url": "https://www.bilibili.com/video/BV1fNJQ6bEAj",
+      "affinity_score": 74.0,
+      "recommend_reason": "命中偏好分区「音乐」；综合热度前 12%"
+    },
+    {
+      "bvid": "BV1JYsd6sE4k",
+      "title": "《崩坏：星穹铁道》千星纪游PV：「有关星空的寓言集•其三」",
+      "category_path": "游戏/单人RPG游戏",
+      "uploader": "崩坏星穹铁道",
+      "video_url": "https://www.bilibili.com/video/BV1JYsd6sE4k",
+      "affinity_score": 72.7,
+      "recommend_reason": "命中偏好分区「游戏」；综合热度前 21%"
+    },
+    {
+      "bvid": "BV1j5nj68E48",
+      "title": "【英雄联盟】K/DA官方MV - “FIRESTARTER（燃）”正式上线",
+      "category_path": "音乐/MV",
+      "uploader": "英雄联盟",
+      "video_url": "https://www.bilibili.com/video/BV1j5nj68E48",
+      "affinity_score": 71.5,
+      "recommend_reason": "命中偏好分区「音乐」；综合热度前 23%"
+    },
+    {
+      "bvid": "BV1z9nt6aE5H",
+      "title": "《原神》7.2版本PV：「坏灭肇始之时」",
+      "category_path": "游戏/单人RPG游戏",
+      "uploader": "原神",
+      "video_url": "https://www.bilibili.com/video/BV1z9nt6aE5H",
+      "affinity_score": 71.5,
+      "recommend_reason": "命中偏好分区「游戏」；匹配标签 游戏实况；综合热度前 39%"
+    }
+  ]
+}

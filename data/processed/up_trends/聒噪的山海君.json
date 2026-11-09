@@ -1,0 +1,77 @@
+{
+  "up_name": "聒噪的山海君",
+  "start": "2025-10-29",
+  "end": "2026-10-29",
+  "months": [
+    {
+      "month": "2025-10",
+      "count": 0
+    },
+    {
+      "month": "2025-11",
+      "count": 0
+    },
+    {
+      "month": "2025-12",
+      "count": 0
+    },
+    {
+      "month": "2026-01",
+      "count": 0
+    },
+    {
+      "month": "2026-02",
+      "count": 0
+    },
+    {
+      "month": "2026-03",
+      "count": 0
+    },
+    {
+      "month": "2026-04",
+      "count": 0
+    },
+    {
+      "month": "2026-05",
+      "count": 0
+    },
+    {
+      "month": "2026-06",
+      "count": 0
+    },
+    {
+      "month": "2026-07",
+      "count": 0
+    },
+    {
+      "month": "2026-08",
+      "count": 0
+    },
+    {
+      "month": "2026-09",
+      "count": 0
+    },
+    {
+      "month": "2026-10",
+      "count": 1
+    }
+  ],
+  "appearances": [
+    {
+      "issue_number": 397,
+      "week_start": "2026-10-23",
+      "week_end": "2026-10-29",
+      "month": "2026-10",
+      "rank": 38,
+      "bvid": "BV12Wnd6dEqp",
+      "title": "The shy：我不是F6！",
+      "video_url": "https://www.bilibili.com/video/BV12Wnd6dEqp",
+      "cover_url": "https://i2.hdslb.com/bfs/archive/a92b79c67183384e73e3502880fbdf7141624e94.jpg",
+      "rcmd_reason": "故事，要从这里开始讲起"
+    }
+  ],
+  "issues_scanned": 53,
+  "issues_failed": [],
+  "warnings": [],
+  "generated_at": "2026-11-03T11:28:36+08:00"
+}
